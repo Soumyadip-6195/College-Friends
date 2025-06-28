@@ -71,3 +71,13 @@ p {
   
    filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9));
 }
+
+@media only screen and (max-width: 600px) {
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.container {
+  width: 100%;
+}
